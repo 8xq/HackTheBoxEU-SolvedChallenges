@@ -1,0 +1,17 @@
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\bin\Debug\HackTheBoxEmdeeFive.exe.config
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\bin\Debug\HackTheBoxEmdeeFive.exe
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\bin\Debug\HackTheBoxEmdeeFive.pdb
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\bin\Debug\Leaf.xNet.dll
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.csprojAssemblyReference.cache
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\MainWindow.g.cs
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\App.g.cs
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive_MarkupCompile.cache
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive_MarkupCompile.lref
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\MainWindow.baml
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.g.resources
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.Properties.Resources.resources
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.csproj.GenerateResource.cache
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.csproj.CoreCompileInputs.cache
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.csproj.CopyComplete
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.exe
+C:\Users\Tesco\source\repos\HackTheBoxEmdeeFive\obj\Debug\HackTheBoxEmdeeFive.pdb
