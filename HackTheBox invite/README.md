@@ -41,9 +41,9 @@ Based on names "invite.min.js" looks interesting and so fies "htb-frontend.min.j
 ```
 Upon checking this file we notice an interesting hint '//This javascript code looks strange...is it obfuscated???'
 As its hard to read we use Inspect element 'PrettyPrint' to format it and make it much more easier to read
-And instantly after formatting it with pretty print we have some very interesting strings such as "makeInviteCode" & "Generate"
+And instantly after formatting it with pretty print we have some very interesting strings such as "makeInviteCode"
 ```
-![Alt text](https://i.imgur.com/cdJoAvI.png "Example")
+![Alt text](https://i.imgur.com/X2hluiL.png "Example")
 
 ```
 Admin@hvh.site
