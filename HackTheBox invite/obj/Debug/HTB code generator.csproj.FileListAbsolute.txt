@@ -1,0 +1,19 @@
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\HTB code generator.exe.config
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\HTB code generator.exe
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\HTB code generator.pdb
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.csprojAssemblyReference.cache
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\MainWindow.g.cs
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\App.g.cs
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator_MarkupCompile.cache
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator_MarkupCompile.lref
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\MainWindow.baml
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.g.resources
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB_code_generator.Properties.Resources.resources
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.csproj.GenerateResource.cache
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.csproj.CoreCompileInputs.cache
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.exe
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.pdb
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\Leaf.xNet.dll
+C:\Users\Tesco\source\repos\HTB code generator\obj\Debug\HTB code generator.csproj.CopyComplete
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tesco\source\repos\HTB code generator\bin\Debug\Newtonsoft.Json.xml
