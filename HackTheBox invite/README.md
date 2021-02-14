@@ -105,6 +105,7 @@ To test this I simply used a online base64 decoder and as suspected it was a val
 As you can see below I suspected that it was a base64 string just by looking at it.
 I used a B64 online decoder to get the decoded value and this looked more like a "Token or Key"
 As this did not lead me to anywhere else I assumed this was the sign up key and it was :)
+Codes appear to be valid for around 10-30 mins , so make sure you redeem them within that time frame <3
 https://www.base64decode.org/
 ```
 ![Alt text](https://i.imgur.com/vNm72bp.png "Example")
